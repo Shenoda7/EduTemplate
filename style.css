@@ -71,7 +71,6 @@ a:active {
   text-decoration: none;
   display: flex;
   align-items: center;
-  flex-wrap: wrap;
   gap: 20px;
 }
 
@@ -157,6 +156,7 @@ a:active {
   margin-top: 0;
   font-style: normal;
 }
+
 .text-overlay p {
   color: #fff;
   margin-bottom: 41px;
